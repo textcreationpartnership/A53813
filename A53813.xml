@@ -1,0 +1,378 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The tryal of the truth or rather, the law is the truth : Psalm CXIX, CXLII, wherein are presented to the upright in heart, certain theoretical queries ... which queries particularly and especially tend to make way for the finding out whether it be our duty to keep holy the seventh day Sabbath ... / propounded by a lover of the truth, I.O., of age 57 years, who desireth that truth be preferred in all things above error, and virtue above vice ...</title>
+            <author>Ockford, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 56 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53813</idno>
+            <idno type="STC">Wing O8A</idno>
+            <idno type="STC">ESTC R41804</idno>
+            <idno type="EEBO-CITATION">31360731</idno>
+            <idno type="OCLC">ocm 31360731</idno>
+            <idno type="VID">110785</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53813)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110785)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1750:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The tryal of the truth or rather, the law is the truth : Psalm CXIX, CXLII, wherein are presented to the upright in heart, certain theoretical queries ... which queries particularly and especially tend to make way for the finding out whether it be our duty to keep holy the seventh day Sabbath ... / propounded by a lover of the truth, I.O., of age 57 years, who desireth that truth be preferred in all things above error, and virtue above vice ...</title>
+                  <author>Ockford, James.</author>
+               </titleStmt>
+               <extent>[5], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the Author,</publisher>
+                  <pubPlace>At Amsterdam :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Preface signed: James Oockford.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sabbath --  Early works to 1800.</term>
+               <term>Sabbatarians --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:110785:1" rendition="simple:additions"/>
+            <pb facs="tcp:110785:1" rendition="simple:additions"/>
+            <p>THE TRYAL OF THE TRUTH; Or rather, The Law is the Truth.</p>
+            <p>
+               <hi>PSALM</hi> CXIX. CXLII.</p>
+            <p>Wherein are preſented to the upright in heart, certain Theoretical Queries, <hi>viz.</hi> belonging to Study or Contemplation for the true finding out, whether it be neceſſary to Salvation, that we which profeſs obedience to the Goſpel, should walk in obedience to Gods Law, the ten Commandements, <hi>Exod.</hi> 20? Or whether we may juſtly refuſe to doe that which is therein commanded, and doe that which is therein forbidden, without ſinning againſt GOD?</p>
+            <p>
+               <hi>Which</hi> Queries <hi>particularly and eſpecially tend to make way for the find<g ref="char:EOLhyphen"/>ing out, whether it be our duty to keep holy the ſeventh day Sabbath, commanded</hi> Exod. 20.8, 9, 10, 11, 12? <hi>Or whether the duty of the Sabbath is not required of us who are Gentiles by nature.</hi>
+            </p>
+            <p>Propounded by a Lover of the Truth, <hi>I. O.</hi> Of Age 57 years.</p>
+            <p>Who deſireth that Truth may be preferred in all things above Er<g ref="char:EOLhyphen"/>rour, and Virtue above Vice: that Truth may be honoured, and Errour rejected.</p>
+            <q>Let us ſearch and try our waies, and turn unto the Lord. <bibl>Lament. 3.40.</bibl>
+            </q>
+            <q>For every one that asketh receiveth, and he that ſeeketh findeth, and to him that knocketh it shall be opened. <bibl>Matth. 7.8.</bibl>
+            </q>
+            <p>At <hi>Amſterdam</hi> printed for the Author. 1656.</p>
+         </div>
+         <div type="epigraph">
+            <pb facs="tcp:110785:2" rendition="simple:additions"/>
+            <q>For ever, O Lord, is thy word ſettled in Heaven,
+<bibl>Pſal. 119.89.</bibl>
+            </q>
+            <q>All thy Commandements are ſure; they ſtand faſt for ever and ever, and are done in truth and righteouſneſſe,
+<bibl>Pſal. 11.7.8,</bibl>
+            </q>
+            <q>Nothing can be put to it, nor nothing taken from it: and God doth it that men should fear before him.
+<bibl>Eccleſ. 4.14.</bibl>
+            </q>
+            <q>God ſpake all theſe words, ſaying; Remember the Sabbath day to keep it holy, ſix daies shalt thou labour and doe all thy work; but the ſeventh day is the Sabbath of the Lord thy God, in it thou shalt not doe any work, Thou, nor thy Son, nor thy Daughter, thy Man-ſervant, nor thy Maid-ſervant, &amp;c.
+<bibl>Exod. 20.8.9.10.11.</bibl>
+            </q>
+            <q>Bleſſed is the man that doth this, and the ſon of man that layeth hold of it, and keepeth the Sabbath from polluting of it; and keepeth his hand from doing any evil.
+<bibl>Iſaiah 56.2.</bibl>
+            </q>
+            <q>Wherefore the Law is holy, and the Commandement is holy, juſt, and good.
+<bibl>Rom. 7.12.</bibl>
+            </q>
+            <q>And it is eaſier for Heaven and Earth to paſſe, than one tittle of the Law to fail.
+<bibl>Luke 16.17.</bibl>
+            </q>
+            <q>For the hearers of the Law are not juſt before God, but the doers of the Law shall be juſtified.
+<bibl>Rom. 2.13.</bibl>
+            </q>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:110785:2" rendition="simple:additions"/>
+            <head>To the wel-meaning and impartial READER.</head>
+            <opener>
+               <salute>Honoured Reader;</salute>
+            </opener>
+            <p>THE <hi>reaſons</hi> of my intruding the enſuing <hi>Queries</hi> to publick Conſi<g ref="char:EOLhyphen"/>deration, proceed out of an intire aime at the <hi>honour of God,</hi> and an univerſal good to all men <hi>fearing God,</hi> putting them in mind to con<g ref="char:EOLhyphen"/>ſider whether the ſanctification of the <hi>Lords ſeventh day Sabbath</hi> (the day called <hi>Saturday</hi>) commanded in the Decalogue or Moral <hi>Law,</hi> is not a duty neceſſary to <hi>ſalvation?</hi> And this I doe, in regard I know the duty hath been a long time, and yet is neglected both by men wiſe and unwiſe, religious as otherwiſe, ſome on one opinion, ſome on another (not knowing they doe evill) as I shall relate; paſſing by the names of the <hi>diſtinct Profeſſions</hi> of men, among whom the opinions doe <hi>reſide,</hi> till occaſion be given.</p>
+            <p n="1">1. Some there are, who ſay, that <hi>the Law of God,</hi> Exod. 20. is not given to the <hi>Gentiles,</hi> and thereon they refuſe to keep the <hi>ſeventh day Sabbath.</hi>
+            </p>
+            <p n="2">2. <hi>Others</hi> ſay, the Law of <hi>God</hi> is totally abolished by <hi>Ieſus Chriſt,</hi> and there<g ref="char:EOLhyphen"/>fore they refuſe to keep the ſeventh day <hi>Sabbath.</hi>
+            </p>
+            <p n="3">3. <hi>Others</hi> ſay, the whole <hi>Law</hi> is not abolished, but the fourth Commande<g ref="char:EOLhyphen"/>ment is abrogated by <hi>Chriſt,</hi> in that it was onely a Ceremonial <hi>Precept.</hi>
+            </p>
+            <p n="4">4. <hi>Others</hi> there are, who ſay, the <hi>Law</hi> of God, Exod. 20. is moral and per<g ref="char:EOLhyphen"/>petual, and yet many of this ſort ſay, though very abſurdly, that the ſeventh dayes reſt was transferred from the ſeventh day of the week to the firſt day of the week by the <hi>Reſurrection</hi> of <hi>Ieſus Chriſt</hi> on it; ſo that ſince that time, the firſt day of the week is to be kept as the <hi>Sahbath</hi> in the place of the <hi>Sab<g ref="char:EOLhyphen"/>bath.</hi>
+            </p>
+            <p n="5">5. <hi>Others</hi> there are, who ſay, that the ſeventh day <hi>Sabbath</hi> was not transfer<g ref="char:EOLhyphen"/>red from the ſeventh day to the firſt by <hi>Christ</hi> but was changed by the Autho<g ref="char:EOLhyphen"/>rity of the <hi>Church</hi> after the death of the <hi>Apostles,</hi> and on this account they refuſe to keep the ſeventh dayes <hi>Sabbath.</hi>
+            </p>
+            <p n="6">6. <hi>Some</hi> there are who refuſe to keep the Sabbath out of an opinion, that a daily ceaſing from ſin is the true keeping of the Sabbath.</p>
+            <p n="7">7. <hi>Others</hi> ſay, the Law of God, Exod. 20. is <hi>moral, ſpiritual,</hi> and <hi>perpetual,</hi> and every jot and tittle of it is eſtablished by <hi>Ieſus Chriſt,</hi> and therefore they are as abſolutely bound to keep the ſeventh daies <hi>Sabbath</hi> as they are to keep any precept of that <hi>Law,</hi> of whoſe judgement I profeſſe my ſelfe to be; and why all men fearing God are not of the ſame judgement, I greatly marvel, ſee<g ref="char:EOLhyphen"/>ing
+<pb facs="tcp:110785:3" rendition="simple:additions"/>they cannot but know, that God hath commanded his choſen people to keep the words of the <hi>Law</hi> or <hi>Covenant</hi> for ever, wherein the <hi>Sabbath</hi> is con<g ref="char:EOLhyphen"/>tained, without <hi>adding or diminishing therefrom, and without turning either to the right hand or left,</hi> whether they be <hi>Iews</hi> or <hi>Gentiles,</hi> Deut. 4.13. &amp; 29.9.11. &amp; 31.12. &amp; 4.2. &amp; 5.32. In a word, I doe beleeve that all men are to have the <hi>Law of God,</hi> Exod. 20. in a high and honourable eſteem, and to commit themſelves to be taught and governed by it; <hi>for the Law is ſpiritual and eternal, and bindeth the whole man, ſpirit, ſoul, and body, the underſtanding, will, and the affections thereof for ever,</hi> Rom. 7.12.14. &amp; 3.19. 1 Cor. 9.21. Deut. 6.5. Mat. 22.37. Luke 16.17. James 2.10.11.12.</p>
+            <p n="1">1. Therefore it followeth neceſſarily (according to my judgement, that wee, and all men are as abſolutely, and as unchangeably bound to keep the ſeventh daies <hi>Sabbath</hi> commanded in the fourth Precept, as we are bound to keep any precept of that Law; and other particular engagements binde me to be of this belief.</p>
+            <p n="2">2. Becauſe the <hi>holy and bleſſed God</hi> made the <hi>Sabbath</hi> for man indefinitely, before there was any diſtinction between Jew and Gentile, Gen. 2.2.3. Mark 2.27.</p>
+            <p n="3">3. Becauſe <hi>God himſelf</hi> reſted on the ſeventh day <hi>Sabbath,</hi> Gen. 2.2.3. and thereby gave us an example to reſt on the ſeventh day alſo, Exod. 20.11. E<g ref="char:EOLhyphen"/>pheſ. 5.1.</p>
+            <p n="4">4. Becauſe God commandeth his people Iſrael to keep the Sabbath for e<g ref="char:EOLhyphen"/>ver in remembrance that he made heaven and earth in ſix daies, and reſted on the ſeventh, Exod. 31.17. By which Precept we are alſo bound to keep the <hi>Sabbath</hi> for ever, we profeſſing our ſelves to be the <hi>Iſrael of God,</hi> Exod. 12.49. Numb. 15.16. Exod. 31.12. Deut. 29.29. Acts 15.8.9. Gal. 3.28.29.54.</p>
+            <p n="5">5. <hi>Ieſus Chriſt</hi> conſtantly kept the <hi>Sabbath,</hi> Mark 6.2. Luke 4.26.31. and he requireth us to follow him, John 12.16. Luke 14.27. 1 John 2.6.</p>
+            <p n="6">6. The <hi>Apoſtles</hi> conſtantly kept the <hi>Sabbath,</hi> Acts 13.14.15.16.27.42.43.44. &amp; 16.13.14. &amp; 17.2. And we are to imitate them, 2 Cor. 11.1. Philip. 3.17. Heb. 6.12. Verily it appeareth to me a clear truth, that we <hi>Gentiles</hi> are to keep the <hi>Sabbath</hi> as well as the <hi>Iews,</hi> becauſe God hath made rich and ſin<g ref="char:EOLhyphen"/>gular promiſes of grace and glory to us on our keeping of it, Iſaiah 56.6.7.8. Theſe, and ſome other conſiderations, through grace, have inſtructed my heart to beleeve, that the Precept of the <hi>Sabbath</hi> is as truly <hi>ſpiritual and holy</hi> as any Precept in that Law, retaining the ſame authoritie and binding nature, as ever it had; and therefore ought as truly, and as <hi>conſcionably</hi> to be kept as any pre<g ref="char:EOLhyphen"/>cept of that <hi>Law.</hi> But few men as yet are of this underſtanding, not becauſe there is any Scripture or ſound reaſon that doe lead men to beleeve otherwiſe (that I doe know of) but onely out of ſome <hi>imaginary</hi> perſwaſion (as already mentioned) that the duty of the <hi>Sabbath</hi> doth nothing at all concern them;
+<pb facs="tcp:110785:3" rendition="simple:additions"/>and thereon men take libertie to violate the <hi>Law</hi> of <hi>God</hi> (which Law they ought with care and conſcience to keep, Prov. 3.1. chap. 7.1. Eccleſ. 12.13. Mat. 22.37. 1 John 5.3.) and doe never repent of it: Yea men are ſo far from re<g ref="char:EOLhyphen"/>penting of their violating of the Sabbath. that they doe allow and juſtifie them<g ref="char:EOLhyphen"/>ſelves, and all men, profeſſing Chriſt, in the breaking of it, by doing of the things which are expreſly forbidden in it, promiſing ſalvation to themſelves, and preaching and promiſing it to others: notwithſtanding (I dare ſay) they cannot prove, that <hi>God</hi> ever hath made any promiſe of ſalvation to any who did allow or juſtifie themſelves in the trauſgreſſion of that righteous Law. The conſideration of theſe things, and the diſcharge of my dutie towards <hi>God</hi> and Man, hath moved me in humble boldneſſe to publish theſe enſuing Queries, for the true finding out whether it be not neceſſary to ſalvation that we should walke in obedience to <hi>Gods holy Law,</hi> Exod. 20. to the end that if it be found neceſſarie to ſalvation for us to walk in obedience to Gods Law with Goſpel performances, that thoſe then who have neglected it to this time, may repent thereof, and for time to come conform themſelves to doe whatſoever God doth command in it, leſt they ſpeak peace to themſelves when <hi>God</hi> hath not ſaid it, and thereby deceive their poor ſouls: As alſo that in caſe it be not found ne<g ref="char:EOLhyphen"/>ceſſarie to ſalvation, we then who profeſſe obedience to the <hi>Goſpel,</hi> should walk in obedience to <hi>Gods Law</hi> (Exod. 20.) that wee who do beleeve the keep<g ref="char:EOLhyphen"/>ing of it is neceſſarie to ſalvation, may be better informed; for indeed at the preſent wee doe not in the leaſt conceive, that there is any unneceſſarie thing commanded in that Law, but onely true and juſt duties to be performed to <hi>God</hi> and Man in love; which if it bee ſo, and not otherwiſe, how we then may neglect to doe that which is therein commanded, and doe that which is there<g ref="char:EOLhyphen"/>in expreſſy forbidden, and ſin not, I would willingly know. And laſtly, my de<g ref="char:EOLhyphen"/>ſire is of thee, that thou wilt read this following diſconrſe deliberately and conſiderately, and weigh what is ſaid, uprightly, and deal faithfully with <hi>God</hi> and thy own <hi>ſoul,</hi> as I have done between <hi>God</hi> and my ſoul towards thee whoſe ſalvation he deſireth in all ſinceritie, who remaineth for ever</p>
+            <closer>
+               <signed>
+                  <hi>Thine in the Lord,</hi> James Oockford.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:110785:4" rendition="simple:additions"/>
+            <head>THE TRYAL OF THE TRUTH; Or rather, The Law is the Truth. <hi>PSALM</hi> CXIX. CXLII. </head>
+            <argument>
+               <p>Wherein are preſented to the upright in heart, certain Theoretical Queries, <hi>viz.</hi> belonging to Study or Contemplation for the true finding out, whether it be neceſſary to Salvation, that we which profeſs obedience to the Goſpel, should walk in obedience to Gods Law, the ten Commandements, <hi>Exod.</hi> 20? Or whether we may juſtly refuſe to doe that which is therein commanded, and doe that which is therein forbidden, without ſinning againſt GOD?</p>
+            </argument>
+            <p>
+               <label>Querie the firſt.</label>
+            </p>
+            <p>WHether there be not a <hi>Law</hi> in the <hi>Letter</hi> as well as in Nature gi<g ref="char:EOLhyphen"/>ven or vouchſafed of <hi>God</hi> to the <hi>Gentiles</hi> as well as unto the <hi>Iews,</hi> to command or require true and righteous duties of them to bee performed to God and Man in love? If nay;</p>
+            <p>
+               <hi>Q.</hi> 2. How then shall the <hi>Gentiles</hi> know how to perform true and <hi>righteous</hi> duties to <hi>God</hi> and Man in love? Mat. 22.37.39. And</p>
+            <p>
+               <hi>Q.</hi> 3. If there be a <hi>Law</hi> in the Letter as well as in Nature given or vouch<g ref="char:EOLhyphen"/>ſafed of <hi>God</hi> unto the <hi>Gentiles</hi> as well as to the <hi>Iews,</hi> wherein God commandeth true and righteous duties to be performed to <hi>God</hi> and Man in love;</p>
+            <p>
+               <hi>Q.</hi> 4. What <hi>Law</hi> is it, if it be not the Law of the ten Commandements, <hi>Exod.</hi> 20? And</p>
+            <p>
+               <hi>Q.</hi> 5. If it be the Law of the ten Commandements which God hath given or vouchſafed unto the <hi>Gentiles,</hi> as he hath given or vouchſafed unto the <hi>Iews,</hi> whereby he requireth true and righteous duties to be performed to <hi>God</hi> and Man in love? Then</p>
+            <p>
+               <hi>Q.</hi> 6. Whether that Law be not broken by the Gentiles (after the know<g ref="char:EOLhyphen"/>ledge
+<pb n="2" facs="tcp:110785:4" rendition="simple:additions"/>of it is come unto them) if the duties therein commanded be not perfor<g ref="char:EOLhyphen"/>med to God and Man in love? If nay,</p>
+            <p>
+               <hi>Q.</hi> 7. How then can ſinne be ſaid to be the tranſgreſſion of the Law? 1 Joh 3.4. And</p>
+            <p>
+               <hi>Q.</hi> 8. If the Law of <hi>Gods ten Commandements</hi> be broken (by the <hi>Gentiles,</hi> to whom the knowledge of that Law is come) if the duties therein comman<g ref="char:EOLhyphen"/>ded be not performed to God and Man in love? why then doe the <hi>Gentiles,</hi> to whom the knowledge of the <hi>Law</hi> is come, refuſe to conform themſelves to doe as they are commanded in the fourth precept of that <hi>Law:</hi> And</p>
+            <p>
+               <hi>Q.</hi> 9. If the Law be not given to the <hi>Gentiles,</hi> how can they be under the curſe of the <hi>Law?</hi> Galar. 13.23. ſeeing where there is <hi>no law, there is no tranſ<g ref="char:EOLhyphen"/>greſſion,</hi> Rom. 4.15. And how could Chriſt have redeemed beleeving Gentiles from the curſe of the <hi>Law,</hi> Galat. 3.13. ſeeing <hi>ſin is not imputed where there is no law?</hi> Rom. 5.13.</p>
+            <p>
+               <hi>Q.</hi> 10. Tell me you <hi>Anti-Nomians,</hi> who make a shew of godlineſſe, and deny the power of it, was not the Law made for the <hi>lawleſſe and diſobedient, for the ungodly and for ſinners, for ungodly and prophane, for Murtherers of Fa<g ref="char:EOLhyphen"/>thers, and for Murtherers of Mothers, for Man-ſlayers, for VVhoremongers, for them that defile themſelves with man-kind, for Men-ſtealers, for Lyers, for perju<g ref="char:EOLhyphen"/>red perſons,</hi> if yea, can you, or any elſe who are <hi>Gentiles</hi> by nature commit theſe or the like evils, and not violate the Law of God? Exod. 20. anſwer mee di<g ref="char:EOLhyphen"/>rectly.</p>
+            <p>
+               <hi>Q.</hi> 11. Tel me you who will not keep the ſeventh day <hi>Sabbath,</hi> nor yeeld your ſelves to be governed by that holy and <hi>righteous Law of God,</hi> Exod. 20. on a miſ-conceived opinion, that <hi>Ieſus Chriſt hath abolished the Law,</hi> Is not the Law of God, Exod. 20. the Law of Love? Deut. 6.5. Mat. 22.37.38, 39. Hath <hi>Ieſus Chriſt</hi> commanded <hi>love,</hi> and hath he indeed abolished the Law of <hi>love?</hi> Tell me could be abolish the Law of <hi>love</hi> and not abolished the Law and the Prophets which hang on it? Mat. 22.40. Is there any thing comman<g ref="char:EOLhyphen"/>ded in the Law, Exod. 20. which is contrary to the <hi>law of Nature?</hi> Is there any thing commanded in that Law, as that the doing of it is deſtructive to any Goſpel-duty? And how can the <hi>Law</hi> be abolished by <hi>Chriſt,</hi> ſeeing he came to eſtablish it? Luke 16.17. and <hi>not to deſtroy it,</hi> Mat. 5.17. And if the Law be <hi>abolished</hi> by <hi>Chriſt,</hi> why doe his <hi>Apoſtles</hi> require Chriſtians to keep it? Rom. 3.9. Epheſ. 6.1.2. James 1.22.25. &amp; chap. 2. 8. 9. 10. 11. 12. &amp; chap. 4. 7. 11. Did they ever command Chriſtians to keep an <hi>abolished Law?</hi> If the Law be abo<g ref="char:EOLhyphen"/>lished by <hi>Chriſt,</hi> how can it rightly be ſaid, <hi>that the preaching of faith doth eſtablish it,</hi> Rom. 3.31? If the Law (Exod. 20,) be abolished by Chriſt, how then can Chriſtians (or any elſe) tranſgreſs it, ſeeing <hi>ſin is not imputed where there is no law? Rom.</hi> 5.13. Tell me directly, you who ſay the Law is <hi>abolished,</hi> whether you, or any elſe may worship falſe Gods, doe ſervile or common work on the
+<pb n="3" facs="tcp:110785:5" rendition="simple:additions"/>ſeventh day <hi>Sabbath</hi> (where neceſſitie is not) <hi>diſobey Parents, kill, lie, ſteal, &amp;c. and not tranſgreſſe the written law of God?</hi> Exod. 20.</p>
+            <p>
+               <hi>Q.</hi> 12. Whether a ſpiritual or regenerate man (I mean wiſdoms ſonne) though a Gentile by nature, is not as truly bound to doe or perform that which is commanded in the <hi>ſpiritual Law,</hi> Exod. 20. as the natural or unregenerate man is bound to doe or perform the <hi>natural Law</hi> contained in himſelf? If nay; then,</p>
+            <p>
+               <hi>Q.</hi> 13. Why is Wiſdoms ſon required to keep the Law. Prov. 3.1. &amp; 7.1.2.3. 1 Cor. 7.</p>
+            <p>
+               <hi>Q.</hi> 14. If wiſdomes ſonne is as truly bound to perform that which is com<g ref="char:EOLhyphen"/>manded in the <hi>ſpiritual Law,</hi> as the natural man is bound to keep the Law re<g ref="char:EOLhyphen"/>maining in himſelf, then,</p>
+            <p>
+               <hi>Q.</hi> 15. How can wiſdoms ſonne without ſin neglect or refuſe to keep holy the ſeventh day Sabbath, commanded in the Law, ſeeing <hi>ſin is the tranſgreſſion of the Law,</hi> wherein the Sabbath is commanded. James 2.10, 11. 1 John 3.4.</p>
+            <p>
+               <hi>Q.</hi> 16. Whether there be any thing or things commanded in <hi>Gods Law,</hi> Exod. 20. which is not meet or fit to be performed by Chriſtians? If yea; then,</p>
+            <p>
+               <hi>Q.</hi> 17. What thing or things are they? let them be manifeſted: and if there be not any unmeet or unfit thing or things commanded in Gods Law, Exod. 20. then,</p>
+            <p>
+               <hi>Q.</hi> 18. Why should not Chriſtians as truly and as duly keep the Lords ſe<g ref="char:EOLhyphen"/>venth day Sabbath, commanded in the fourth Precept of the firſt <hi>Table of Gods Law,</hi> Ezod. 20. as they are to keep the fourth Precept of the ſecond <hi>Table</hi> of the ſame Law?</p>
+            <p>
+               <hi>Q.</hi> 19. Whether beleeving Gentiles are not as truly bound in love to ab<g ref="char:EOLhyphen"/>ſtain from whatſoever God hath forbidden in the Moral Law, as they are bound in love to doe whatſoever God hath commanded in the ſame Law? If nay: then,</p>
+            <p>
+               <hi>Q.</hi> 20. What is there forbidden in the Moral Law that beleeving <hi>Gentiles</hi> may doe, and not ſinne; ſeeing <hi>ſinne is the tranſgreſsion of the Law,</hi> 1 John 3.4. James 2.10.11. And</p>
+            <p>
+               <hi>Q.</hi> 21. If Chriſtian Gentiles are as truly bound in love to abſtain from what<g ref="char:EOLhyphen"/>ſoever God hath forbidden in the Moral Law, as they are bound in love to doe whatſoever God hath commanded in the ſame Law,</p>
+            <p>
+               <hi>Q.</hi> 22. Why then do we <hi>Christian Gentiles</hi> as conſcionably abſtain from do<g ref="char:EOLhyphen"/>ing of ſervile or common work on the <hi>Lords ſeventh day Sabbath</hi> (the day abu<g ref="char:EOLhyphen"/>ſively called <hi>Saturday</hi>) as they do, or ought to <hi>honour their Father and Mother,</hi> commanded in the fifth precept of the ſame <hi>Law?</hi>
+            </p>
+            <p>
+               <hi>Q.</hi> 23. Whether the ſeventh and laſt day of the week, the day called <hi>Sa<g ref="char:EOLhyphen"/>turday,</hi> bee not the day which <hi>God</hi> bleſſed and ſanctified before or above any one of the ſix daies of the week, to bee the day or time for the performance
+<pb n="4" facs="tcp:110785:5" rendition="simple:additions"/>of his publick worship on it to the end of the world? If yea;</p>
+            <p>
+               <hi>Q.</hi> 24. Why then doe Gods choſen people ſeparate the ſeventh and laſt day of the weeke for the performance of Gods publick worship on it, before or a<g ref="char:EOLhyphen"/>bove any one of the other ſix daies of the week, and honour our Creator on it, and ſanctifie it unto the Lord our God as he commandeth us in the <hi>Royal Law,</hi> ſeeing God hath made unto us ſingular promiſes of heavenly and ſpi<g ref="char:EOLhyphen"/>ritual bleſſings upon our keeping of it? Iſaiah 56.2.3.4.6.7. Luke 11.28.<note n="a" place="margin">Honoured Reader, if thou intendeſt to anſwer to theſe Queries, be pleaſed to produce, if thou canſt, that God at any time did make any promiſe of ſpiri<g ref="char:EOLhyphen"/>tualbleſſing either to Iew or Gentile on the doing of any thing which God in the firſt place required not of them? For if there be no ſuch thing to be shewen, even this thing it ſelf is of great validitie to mamfeſt, that God commandeth his people the Gentiles to keep holy tho ſeventh day Sabbath.</note> And</p>
+            <p>
+               <hi>Q.</hi> 25. If the ſeventh and laſt day of the week be not the day which <hi>God bleſſed and ſan<g ref="char:EOLhyphen"/>ctified</hi> before or above any one of the fix daies of the week, to be the day or time of his <hi>pub<g ref="char:EOLhyphen"/>lick worship,</hi> what day is it, which God hath bleſſed and ſanctified to that end? and how are theſe Scriptures to be underſtood, Gen. 2.2.3. Exod. 16.26. &amp; 20.8.9.10.11. &amp; 31.17. Iſaiah 56.2.3.4.5. &amp; 66.23. Matth. 24.20. And</p>
+            <p>
+               <hi>Q.</hi> 26. Why did Jeſus Chriſt in the time of his life, and his Apoſtles after his death keep the ſeventh day Sabbath, and conſtantly worship God on it? Luke 4.16.31. Mark 6.2. Acts 13.14.15.16.37.42.43.44. &amp; 16.13.14. And</p>
+            <p>
+               <hi>Q.</hi> 27. Why did they command Chriſtians to follow them, John 12.26. 1 John 2.6. Matth. 10.38. 2 Cor. 11.1. Phsl. 3.17. Hebr. 6.12? And</p>
+            <p>
+               <hi>Q.</hi> 28. If the ſeventh day Sabbath ought not to be kept by Chriſtians, why did the firſt <hi>Christian Churches</hi> almoſt through the whole world for more than the ſpace of <hi>two hundred and fifty years</hi> after Ghriſts death, conſtantly keep the ſeventh day Sabbath for the worshipping God on it, and receiving the <hi>holy My<g ref="char:EOLhyphen"/>ſteries or Sacraments</hi> inſtituted by Chriſt (as <hi>Socrates</hi> doth manifeſt they did in his 5. book and 21. chapter; <hi>after the Greek in his</hi> 22.) did they do evil there<g ref="char:EOLhyphen"/>in?</p>
+            <p>
+               <hi>Q.</hi> 29. Whether there be not in theſe our daies a <hi>Sabbath day</hi> to be kept <hi>holy</hi> unto the <hi>Lord our God?</hi> If yea; then</p>
+            <p>
+               <hi>Q.</hi> 30. What day is it, if it be not the ſeventh day <hi>Sabbath?</hi> and who made it Sa abbath?</p>
+            <p>
+               <hi>Q.</hi> 31. And if the ſeventh and laſt day of the week, the day called <hi>Satur<g ref="char:EOLhyphen"/>day,</hi> be the Sabbath day, as the Word of God doth manifeſt it is, Exod. 16.26. &amp; 20.10. Deut. 5.14. and as all <hi>Declarations and Proclamations given forth by he Parliaments of England doe declare,,</hi> why then should not Chriſtians forbeare to doe common or worldly work on it, and ſer it apart holy to the performance of holy and publick worship, according to the will of God? Exod. 20.8.9.10.11. Levit. 23.3. And</p>
+            <pb n="3" facs="tcp:110785:6" rendition="simple:additions"/>
+            <p>
+               <hi>Q.</hi> 32. Whether it be not preſumptuous boldneſs in any man to ſay the ſe<g ref="char:EOLhyphen"/>venth and laſt day of the week, the day called <hi>Satturday</hi> is not the <hi>Sabbath day,</hi> ſeeing ſo to ſay is to contradict the expreſs Word of God in the fourth Precept of the Moral Law? as alſo on the other hand, whether it be not ſuperſtition in men to honour the firſt daie of the week with the title of <hi>Sabbath or Lords-day,</hi> ſeeing it is not to be proved by Scripture, that either of thoſe <hi>titles of honour</hi> do properly belong to it?</p>
+            <p>
+               <hi>Q.</hi> 33. VVhether <hi>Ieſus Chriſt</hi> did not as <hi>holily</hi> and as <hi>uprightly</hi> keep or per<g ref="char:EOLhyphen"/>form the duty of the <hi>Sabbath</hi> commanded in the fourth Precept of the Moral Law, as he did keep or perform the 1, 2, 3, 5, 6, 7, 8, 9, or 10. Precept of the ſame Law? If nay:</p>
+            <p>
+               <hi>Q.</hi> 34. How then could Jeſus Chriſt be wanting in obedience to the Law, and not tranſgreſs the Law, ſeeing he was made <hi>under the Law?</hi> Galat. 4.4. and circumciſed, Luke 2.21.39. and thereby bound to keep the whole Law, Galat. 5.3. And,</p>
+            <p>
+               <hi>Q.</hi> 35. If <hi>Ieſus Chriſt</hi> did as <hi>holily</hi> and <hi>uprightly</hi> keep or perform the dutie of the Sabbath, commanded in the fourth Precept of the Moral Law, as he did keep or perform the 1, 2, 3, 5, 6, 7, 8, 9, 10. Precept of that Law, and <hi>Ieſus Chriſt</hi> requireth his Diſciples to follow him. John 12.26. Luke 14.27. 1 John 2.26. then,</p>
+            <p>
+               <hi>Q.</hi> 36. VVhy should not we who profeſs our ſelves to be <hi>Chriſts diſciples,</hi> as holily and as uprightly imitate him in keeping holy the ſeventh day <hi>Sabbath,</hi> commanded in the fourth Precept of the Moral Law, as we are to follow him in keeping the other nine Precepts of that <hi>Law?</hi> And whether we may refuſe to follow him in the point of the <hi>Sabbath.</hi> without ſinning againſt God, notwith<g ref="char:EOLhyphen"/>ſtanding <hi>he who ſaith he abideth in him, ought to walk as hee walked?</hi> 1 John 2.6.</p>
+            <p>
+               <hi>Q.</hi> 37. Whether the <hi>ſpiritual Children of Abraham</hi> that are <hi>Gentiles</hi> by na<g ref="char:EOLhyphen"/>ture, are not as abſolutely bound in love to keep the <hi>Sabbath</hi> according to the words expreſſed in the fourth Precept of the Moral Law, as they are bound in love to keep or perform the duties expreſſed in the 1, 2, 3, 5, 6, 7, 8, 9, &amp; 10. Precept of that Law? If nay,</p>
+            <p>
+               <hi>Q.</hi> 38. Then why do the <hi>ſpiritual children of Abraham</hi> (that are <hi>Gentiles</hi> by nature, as they eſteem themſelves, and would be eſteemed) ſet up the fourth Precept, wherein the duty of the Sabbath is commanded, with and among the other nine Precepts of that Law in their <hi>Churches</hi> or meeting-houſes? and why doe <hi>School-maſters</hi> teach it to their Scholars to learn it by heart as they doe the 1, 2, 3, 5, 6, 7, 8, 9, 10. Precept of that <hi>Law,</hi> if it be not intended that both old and young should as truly and duly keep or perform the dutie of the <hi>Sab<g ref="char:EOLhyphen"/>bath,</hi> as they are to keep or perform the other nine Precepts of that <hi>Law?</hi> And,</p>
+            <pb n="6" facs="tcp:110785:6" rendition="simple:additions"/>
+            <p>
+               <hi>Q.</hi> 39. If the <hi>ſpiritual children of Abraham</hi> (Gentiles by nature) are bound in love to keep the <hi>Sabbath,</hi> according to the words expreſſed in Exod. 20. as they are bound in love to keep the 1, 2, 3, 5, 6, 7, 8, 9, &amp; 10. Precept of the ſame Law; then,</p>
+            <p>
+               <hi>Q.</hi> 30. Why doe beleeving Gentiles who profeſſe themſelves to be the <hi>ſpi<g ref="char:EOLhyphen"/>ritual children of Abraham,</hi> refuſe to keep holy the <hi>ſeventh day Sabbath,</hi> ſee<g ref="char:EOLhyphen"/>ing <hi>whoſoever keepeth the whole Law, and yet faileth in one piont, is guilty of all.</hi> Jam. 2.10.11?</p>
+            <p>
+               <hi>Q.</hi> 31. Whether we may do or conſtantly practiſe any thing for which there is not any Word of God that doth either juſtifie or allow us in the doing of it? If yea;</p>
+            <p>
+               <hi>Q.</hi> 32. Then what is the thing that we may doe or conſtantly practiſe with<g ref="char:EOLhyphen"/>out any word of God either to juſtifie or allow us in the doing of it? And</p>
+            <p>
+               <hi>Q.</hi> 33. If we may not doe or conſtantly practiſe any thing for which wee have not any word of God that doth either juſtifie or allow us in the doing of it, then,</p>
+            <p>
+               <hi>Q.</hi> 34. VVhy do men conſtantly make it their practiſe to doe common or worldly work on the <hi>Lords ſeventh day Sabbath,</hi> the day called <hi>Saturday,</hi> ſee<g ref="char:EOLhyphen"/>ing there is not any word of God that doth either juſtifie or allow them ſo to doe?</p>
+            <p>
+               <hi>Q.</hi> 35. VVhether the <hi>ſeventh day Sabbath</hi> were given of God to be a Sign, Type, or Figure of our Regeneration or ceſſation from ſinful workes in the whole courſe of our life? If yea, then</p>
+            <p>
+               <hi>Q.</hi> 36. I would willingly know of theſe men, who account themſelves ſo regenerate by their beleeving <hi>Christ,</hi> whether they indeed and in truth doe ceaſe from all ſinful works in the whole courſe of their life, and doe live ſo holily and righteouſly as God requireth of them? If yea;</p>
+            <p>
+               <hi>Q.</hi> 37. Then let theſe men that ſo affirm, produce proof for the confirma<g ref="char:EOLhyphen"/>tion of it, that we who doe not apprehend that there are any ſuch <hi>men,</hi> may know it ſo to be: As alſo let ſuch men prove, that ſuch a walking doth abo<g ref="char:EOLhyphen"/>lish the duty of the <hi>ſeventh day Sabbath</hi> to them; and if it cannot be proved, that men are ſo regenerated by their <hi>faith in Chriſt,</hi> that they reſt or ceaſe from all ſinfull works in the whole courſe of their life, or that they doe not live ſo holily as God commandeth them: how can the ſign, type, or figure, as name<g ref="char:EOLhyphen"/>ly, the <hi>ſeventh day Sabbath</hi> be abolished or made voyd before the production of that which was ſignified by the ſign, type, or figure, <hi>viz.</hi> a reſting or ceſſa<g ref="char:EOLhyphen"/>tion from all ſinfull works in the whole courſe of our life?</p>
+            <p>
+               <hi>Q.</hi> 38. VVhether the <hi>ſeventh day Sabbath</hi> was given of God to be a ſign, type, or figure of the eternal reſt? If nay; How then are the words of the Author to the Hebrews to be underſtood, chap. 4. v. 6.9.10.11? And if the <hi>ſeventh day Sabbath</hi> was given to be a ſign, type, or figure of the eternal reſt; then</p>
+            <pb n="7" facs="tcp:110785:7" rendition="simple:additions"/>
+            <p>
+               <hi>Q.</hi> 39. Whether God at any time did <hi>abolish</hi> or revoke any ſign, type, or fi<g ref="char:EOLhyphen"/>gure, before the production of the ſign, type, or figure? If yea, then</p>
+            <p>
+               <hi>Q.</hi> 40. Let that ſign, type, or figure, which was either repealed, or abolished before the production of that which was <hi>shadowed</hi> by it, be made manifeſt; and let it be proved that the <hi>ſeventh day Sabbath</hi> was ſuch a ſign, type, or figure. And</p>
+            <p>
+               <hi>Q.</hi> 41. If ſuch a thing cannot be done, then why should not the <hi>ſeventh daies Sabbath</hi> be kept for a ſign (according to the will of God, <hi>Exod.</hi> 31.17.) until the production of the thing which the <hi>ſeventh day Sabbath</hi> prefigured, to wit, eter<g ref="char:EOLhyphen"/>nal reſt in glory?</p>
+            <p>
+               <hi>Q.</hi> 42. Whether is it poſſible for any man to walk <hi>holy every day,</hi> who doth tranſgreſs the Law of God, Exod. 20. on the <hi>ſeventh day Sabbath</hi> (to wit, the day called <hi>Saturday</hi>) by doing common or worldly work on it? If yea;</p>
+            <p>
+               <hi>Q.</hi> 43. Then letit be proved that common or ſervile work may be done by Chriſtians on the ſeventh and laſt day of the week (where neceſſity is not) and not tranſgreſs the Law of God, <hi>Exod.</hi> 20. And</p>
+            <p>
+               <hi>Q.</hi> 44. If every man ought to walk <hi>holily every day,</hi> and no man can walk ho<g ref="char:EOLhyphen"/>lily every day who tranſgreſſeth the <hi>Law of God</hi> on the ſeventh day, by doing common or worldly work on it, tell me, were it not better then that every man did that which God commadeth in his holy Law on the ſeventh day Sabbath, and leave undone that which God forbiddeth, whereby he provoketh him to wrath, and incurs his curſe? Pſalm 119.21. Jer. 11.3. except that there bee larger Mercies for erring men then we read of, Mat. 7.21. &amp; 19.17.</p>
+            <p>
+               <hi>Q.</hi> 45. Whether faith in <hi>Chriſt</hi> gives any man acceptance with God to his <hi>justification and ſalvation,</hi> who neglects a holy walking before God? If yea; then let it be proved. And</p>
+            <p>
+               <hi>Q.</hi> 46. If faith in <hi>Chriſt</hi> doth not give any man acceptance with <hi>God</hi> to his juſtification and ſalvation, who neglects a holy walking before God, then I would know, whether it be poſſible for any man to walk holily before God, who knowingly and wel-pleaſingly neglects to walk obediently to that which is com<g ref="char:EOLhyphen"/>manded of God in the fourth Precept of the <hi>Decalogue or Moral law?</hi> ſeeing the tranſgreſſion of that Law is ſinne in the ſmalleſt word, letter, or point, as it is written by <hi>Moſes</hi> in the <hi>Hebrew Text,</hi> witneſs theſe Scriptures, Exod. 34.27.28. Deut. 4.13. &amp; 28.14. &amp; 27.26. Matth. 5.18. Luke 16.17. James 2.10.11. And,</p>
+            <p>
+               <hi>Q.</hi> 47. If it be not ſin to tranſgreſs the Law by neglecting or refuſing to doe that which is therein commanded, how then are the laſt cited Scriptures to be underſtood, and how is ſin to be known?</p>
+            <p>
+               <hi>Q.</hi> 48. Whether every man is not as truly bound to love the <hi>Lord his God</hi> with all his heart, and with all his ſoul, and with all his mind, as he is bound to love his Neighbour as himſelf? If yea;</p>
+            <p>
+               <hi>Q.</hi> 49. Then tell me, can a Chriſtian man love his Neighbour as himſelf if
+<pb n="8" facs="tcp:110785:7" rendition="simple:additions"/>he refuſe to perform any duty of love commanded in the <hi>ſecond Table of the Moral Law?</hi> If yea; prove it. And,</p>
+            <p>
+               <hi>Q.</hi> 50. If a man cannot love his neighbour as himſelfe, who refuſeth to perform any duty of love commanded in the ſecond Table of the Moral Law, then how can a man love God as he ought, who refuſeth to performe the duty of love commanded in the firſt Table of the Moral Law, ſeeing Je<g ref="char:EOLhyphen"/>ſus Chriſt doth more ſtrongly binde and enjoine every <hi>Chriſtian man</hi> in love to performe the duties of the firſt Table of the Moral Law, to God, then he doth bind or injoine any <hi>Chriſtian man</hi> to performe the dutie of the ſecond Table of the <hi>Moral Law</hi> unto his neighbour? Mat. 32.21.37.38.39. And further I ſay, if the caſe ſtandeth thus, tell me whether it is not a farre greater, and worſe ſin in men knowingly and wel-pleaſingly to leave undone that which God expreſly commandeth in the fourth Precept of the firſt Table, <hi>Exod.</hi> 20. then it is knowingly and wel-pleaſingly to doe that which is forbidden in the ſecond Table of the ſame Law? And</p>
+            <p>
+               <hi>Q.</hi> 51. Whether God in the fourth precept of the <hi>Law,</hi> Exod. 20.8.9.10.11. doth not as truly and as abſolutely require us to reſt on the <hi>ſeventh</hi> day after his example from doing any work thereon, as hee doth require us to worke ſix daies after his example? If nay;</p>
+            <p>
+               <hi>Q.</hi> 52. Whether Gods meaning in that which he commandeth in point of the <hi>ſeventh daies Sabbath</hi> be contrary unto his words? And</p>
+            <p>
+               <hi>Q.</hi> 53. If Gods meaning in the point of the <hi>ſeventh daies Sabbath</hi> bee con<g ref="char:EOLhyphen"/>trary to his words, tell mee then what his meaning is otherwiſe or contrary to that which hee commandeth in point of the <hi>ſeventh day Sabbath</hi> Exod. 20? And,</p>
+            <p>
+               <hi>Q.</hi> 54. If <hi>Gods</hi> meaning in point of the <hi>Sabbath</hi> be contrary to his words, why then should wee not as truly and as duly <hi>keep holy the ſeventh day Sabbath</hi> commanded in the fourth Precept of the Moral Law, and not doe any work thereon after <hi>Gods example,</hi> as wee are for to worke ſix dayes ſucceſſively from the firſt daies worke of the VVorlds creation after his example? Sure<g ref="char:EOLhyphen"/>ly it appeares to mee, and to other devoute <hi>Chriſtians,</hi> we are: And that from Geneſis 2.2.3. Exod. 20.10.11. compared with Epheſ. 5.1. And how can it be diſproved by any word of God I doe not ſee, nor in the leaſt con<g ref="char:EOLhyphen"/>ceive, becauſe God hath joined the dutie of our reſt or ceſſation from world<g ref="char:EOLhyphen"/>ly work to the <hi>ſeventh day;</hi> for the words of the fourth Precept of the <hi>Deca<g ref="char:EOLhyphen"/>logue</hi> runne thus; <hi>Remember that thou keep holy the Sabbath day; ſix daies shals thou labour, and doe all thou haſt to doe</hi> (now note) <hi>but the ſeventh day is the Sabbath of the Lord thy God, in it thou shalt not doe any work, thou, nor thy ſonne, nor thy daughter, thy man-ſervant, nor thy mayd-ſervant, &amp;c.</hi> Lo, here I find, that God hath for ever joined the dutie of reſt unto the ſeventh
+<pb n="9" facs="tcp:110785:8" rendition="simple:additions"/>day (the day called <hi>Saturday</hi>) and therefore as long as the day remaineth, the dutie of reſt on the <hi>ſeventh day</hi> remaineth alſo; and not onely on this reaſon, but alſo becauſe <hi>Ieſus Chriſt</hi> (in Mat. 19.6.) ſaith, <hi>VVhatſoever God hath joined together let no man put aſunder;</hi> which rule given by our Saviour, bindeth not onely in matter of <hi>VVedlock,</hi> but in all matters whatſoever, where one dutie is <hi>joined</hi> to another; for the rule is general, and therefore it followeth, that if we keep not an holy reſt and Sabbath on the ſeventh day, we doe not onely violate the <hi>Law of God,</hi> Exod. 20. but alſo the <hi>Law of Chriſt,</hi> Mat. 19.6. and therefore ſurely a great tranſgreſſion, which ought to be lookt to in time; <hi>for if a man ſin againſt man, the Iudge shall judge him, but if a man ſinne againſt God; who shall intreat for him?</hi> 1 Sam. 2.25. Verily I doe not conceive, nor in the leaſt beleeve, that men can neglect to doe that which God commandeth with<g ref="char:EOLhyphen"/>out ſinning: And therefore as the caſe ſtandeth, it behoveth every man to prove and examine his own waies and doings, by the word of God, that they may know whether the firſt day of the week be to be kept or ſet apart by <hi>Gods</hi> command or by mens will and appointment, contrary to the will of <hi>God.</hi> And to this end I demand,</p>
+            <p>
+               <hi>Q.</hi> 55. VVhether the <hi>Church</hi> (or <hi>old Fathers</hi> after the death of the <hi>Apo<g ref="char:EOLhyphen"/>ſtles</hi>) did change or tranſlate the ſeventh daies reſt unto the firſt day of the week to be ſet apart for publick worship? If yea; then, from whom had they authority ſo to doe? If from <hi>God,</hi> where doe we read of it? If from man, who was it? and who gave him authoritie ſo to doe? And if of themſelves, how could that be in the way of <hi>righteouſneſſe,</hi> ſeeing <hi>Gods Church</hi> is ever for<g ref="char:EOLhyphen"/>bidden to diminish from his word, Deut. 4, 2. &amp; 12.33. Eccleſ. 3.14. Prov. 30 6. Gal. 3.15. And</p>
+            <p>
+               <hi>Q.</hi> 56. If the <hi>Church</hi> or the <hi>old Fathers</hi> did not change or tranſlate the ſe<g ref="char:EOLhyphen"/>venth daies Sabbath to the firſt day of the week, why doe<note n="a" place="margin">Inſtitut. lib. <hi>2.</hi> chap. <hi>8.533.</hi>
+               </note> 
+               <hi>Calvin,</hi>
+               <note n="b" place="margin">Bu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ing in his godly Serm. pag. <hi>140.</hi>
+               </note> 
+               <hi>Bullinger;</hi>
+               <note n="c" place="margin">Declar. Bapt. pag. <hi>96.</hi>
+               </note> 
+               <hi>Frith,</hi>
+               <note n="d" place="margin">Anſwer to Dr. Moore, chap <hi>25.</hi>
+               </note> 
+               <hi>Tindall,</hi>
+               <note n="e" place="margin">In his Comment. on Exod. <hi>20.</hi> pag. <hi>369.</hi>
+               </note> 
+               <hi>Dr. VVillet,</hi>
+               <note n="f" place="margin">In Cathech pag. <hi>989.</hi>
+               </note> 
+               <hi>
+                  <g ref="char:V">Ʋ</g>rſinus,</hi>
+               <note n="g" place="margin">Paſſat. on pag. <hi>19.</hi> in an ancient Cop.</note> 
+               <hi>Bunni,</hi>
+               <note n="h" place="margin">In his Treatiſe on the Sabb. in Anſwer to Mr. Byfield.</note> 
+               <hi>Mr. Brerewood,</hi> ſay they changed it from the ſeventh day to the firſt; yea ſome of theſe Authors doe alſo give reaſon why they changed it; but for brevities ſake I will omit to lay down the words of the firſt Authors, yet I think good to recite the words of <hi>Mr. Brerewood,</hi> and the <hi>Annotations</hi> of the Colledge of <hi>Rhemes</hi> on <hi>Apocal.</hi> 1.10. whoſe words are theſe; <hi>The Apoſtles and faith<g ref="char:EOLhyphen"/>ful abrogated the Sabbath</hi>
+               <note n="a" place="margin">They are too large: the Apoſtles had no hand in it, the Church did it long after their death, as is to bee known by that which is al<g ref="char:EOLhyphen"/>ready ſaid.</note> 
+               <hi>which was the ſeventh day, and made holy day for it the next day following, being the Creation: And without all Scripture or commande<g ref="char:EOLhyphen"/>ment of Christ, that we read of (yea which is more) not
+<pb n="10" facs="tcp:110785:8" rendition="simple:additions"/>onely otherwiſe than was by the Law obſerved, but plainly otherwiſe then was pre<g ref="char:EOLhyphen"/>ſcribed by God himſelf in the ſecond Commandement</hi> (they erre in their ac<g ref="char:EOLhyphen"/>count, it is the fourth) <hi>yea and otherwiſe then he ordained in the firſt Creation, when he ſanctified preciſely the Sabbath-day, and not the day following. Such great power did Chriſt leave with his Church, and for ſuch cauſes gave he the Holy Ghoſt to be reſident in it, and to guide it unto all truths, even ſuch as in the Scriptures are not expreſſed: And if the Church had authority and inſpiration from God to make Sunday (being a working day before) an everlaſting holy day, and the Saturday that before was an holy day, now a common working day: VVhy may not the ſame Church preſcribe the other holy Feaſts of Eaſter, VVhitſontide, Chriſtmaſſe, and the reſt? For the ſame warrant shee had for the one that shee had for the other, &amp;c.</hi> Although the <hi>Church</hi> did <hi>change</hi> the dutie of <hi>reſt,</hi> and time of <hi>worship</hi> from the ſeventh day, and placed it upon the firſt day of the week, yet did not they at the firſt by any Law injoine the <hi>Church</hi> to keep it, but <hi>Conſtantine</hi> the <hi>Roman Emperour</hi> was the firſt man (that wee read of) who commanded it to be kept; and this he did by his <hi>Edicts</hi> or <hi>Proclamations,</hi> which he ſent forth into all his <hi>Roman Empire,</hi> whereby <hi>he ſtraightly com<g ref="char:EOLhyphen"/>manded that the Lords day should be forthwith obſerved, by devoting it to Prayer, and that they should forbear to labour, or to doe any work on the Lords-day; as we read in</hi> Euſebius <hi>in the life of</hi> Conſtantine, <hi>lib,</hi> 4. <hi>chap.</hi> 18. <hi>&amp;</hi> 19. By which means came the firſt day of the week to receive <hi>honour,</hi> and to bee kept as a <hi>Sabbath;</hi> but yet notwithſtanding <hi>Chriſtian men</hi> (fearing God) could not ſo eaſily be <hi>brought to prophane the Lords Sabbath</hi> (the day called <hi>Satur<g ref="char:EOLhyphen"/>day</hi>) as to make it a working day, which thing it ſeems the Heads or Gover<g ref="char:EOLhyphen"/>nours of the <hi>Churches</hi> would that they should, as it appeareth by the Council at <hi>Laodicea</hi> (held about <hi>eight and thirty yeares</hi> after the <hi>Act</hi> of <hi>Conſtantine</hi>) in that they <hi>made a Law that Chriſtians should not Iudaize, and reſt upon the Sabbath, but should rather work on it; and that they should preferre the Lords-day above the Sabbath, and if any were found working on it, they should be ex<g ref="char:EOLhyphen"/>communicated or accurſed. See Mr. Brabourn againſt the ten Miniſters, in defence of the ſeventh daies Sabbath, pag.</hi> 482. <hi>out of Hoſpinian de origen. Feſt cap</hi> 9. <hi>pag.</hi> 27. Although the <hi>Church changed</hi> the time of reſt from the ſeventh day of the week unto the firſt, and that <hi>Chriſtians</hi> generally unto this time have conformed themſelves to doe their will, yet it doth not prove that the <hi>Churches</hi> therein are juſtifiable before God; neither will the continued enſtome of the <hi>Church</hi> in keeping of the firſt day of the week to this time in place of the <hi>Sabbath,</hi> warrant our lawfull keeping of it, unleſs <hi>God hath commanded it.</hi> What anſwer will men make when God shall cal them to an account for their ſo doing, <hi>I marvel.</hi> This I ſpeak, becauſe I doe not beleeve that it can be pro<g ref="char:EOLhyphen"/>ved, that either <hi>Ieſus Chriſt or his Apoſtles</hi> did give order to the <hi>Church</hi> that it should <hi>change</hi> the <hi>ſeventh daies reſt</hi> to the firſt day of the week <hi>three hundred
+<pb n="11" facs="tcp:110785:9" rendition="simple:additions"/>yeares</hi> aſtea their deceaſe<note n="c" place="margin">Why the Church chan<g ref="char:EOLhyphen"/>ged the Sabbath from the ſeventh day, and placed it on the firſt day of the week; and the time when they did it, or near about, is to bee ſeen in the <hi>37, 38, 39, 40, 41, 42.</hi> pages of my Book intitu<g ref="char:EOLhyphen"/>led, The Doctrine of the fourth Commandement de<g ref="char:EOLhyphen"/>formed by Popery. &amp;c.</note> and further to manifeſt that the <hi>Church</hi> changed the <hi>Sabbath,</hi> or abolished it, and transferred the time of the celebration of it to the firſt day of the weeke, hear what Mr. <hi>Brerewood</hi> ſaith in his <hi>Treatiſe of the Sabbath, in anſwer to Mr. Byfield,</hi> where he anſwereth an objection touching the abolishing of the Sabbath, and the celebration of it tranſlated to the firſt day of the week. <hi>Tranſlated,</hi> ſaith he, <hi>by whom? The Scripture we know to be ſufficient; it containeth all the Commandements of God, whether of things to be done, or to be avoided, or to be beleeved; let me hear either one precept, one word of God of the Old Teſtament commanding it to be tranſlated: I ſay, one word of any of the Apoſtles, intimating that by Chriſts commandement it was tranſlated: It is certain there is none. Therefore it is evident, that the ſolemnitie of the Lords day was not established</hi> Jure divino, <hi>not by any commandement of God, and conſe<g ref="char:EOLhyphen"/>quently to work on that day is certainly no breach of any divine Commandement. How then</hi> (ſaith he) <hi>hath the firſt day of the week gained the clebration and ſo lemnitie to become the Sabbath of Coriſtians? by the coustitution of the Church, and onely by that, yet of that moſt ancient Church I confeſs, that next followed the aſcenſion of our Redeemer; but all this is but</hi> jus humanum <hi>the decree of Men, which muſt not equal it ſelf with Gods commandement, &amp;c.</hi> And in pag. 43.44. he ſaith, <hi>that the Church ordained ſolemn Aſſemblies of Chriſtians to be celebra<g ref="char:EOLhyphen"/>ted that day to the honour of God, and in them the invocation of his holy name, &amp;c. It is out of queſtion all Antiquities afford plentifully remembrance of it.</hi> And thus farre <hi>Mr. Brerewood.</hi>
+            </p>
+            <p>Now to ſpeake a few words to thoſe who ſay the Sabbath is abolished by Chriſt, and the firſt day inſtituted in is ſtead. Can it be truly ſaid that the <hi>De<g ref="char:EOLhyphen"/>calogue</hi> is a Moral Law. when the fourth Precept is <hi>an abolished Ceremonie,</hi> or part of it? Is ſome part of that Law to be kept by Chriſtians, and not all of it? How is ſuch a thing to be proved? Did God ever give a Ceremonial Pre<g ref="char:EOLhyphen"/>cept with the voice of his mouth, <hi>with thundering, lightning, and the voice of a trumpet? Can it be proved that God did write a Ceremonial Precept in a table of ſtone?</hi> Are not the ten Commandements the Law which Jeſus Chriſt and his Apoſtles eſtablished for Chriſtians to keep to the end of the world? If nay; what Law is it they eſtablished? And if it be the Law which they eſtablished, could they eſtablish every jot and tittle of it, as they did, Luke 16.17. Rom. 3.31, and not eſtablish the fourth Precept of the Law, which hath more words in it, then there is in ſome other ſeven Commandements of that Law? Doe not you, who profeſs your ſelves to be the Miniſters of <hi>Chriſt,</hi> deceive your ſelves and others, who teach your Hearers, that they are to keep the 1, 2, 3, 5, 6, 7 8, 9, &amp; 10 Commandements, and not the fourth? Was there ever ſuch a thing
+<pb n="12" facs="tcp:110785:9" rendition="simple:additions"/>taught by Jeſus Chriſt and his Apoſtles? Did not they as truly and as duly keep the fourth Precept as they did the other nine? deny it if you can; And did not they require all Chriſtians to follow them therein as well as in other duties of pietie and charitie? If nay; then prove to the contrary. Can you follow them, and not keep the ſeventh daies Sabbath? Can you breake the Sabbath and not tranſgreſſe the Law? Oh take heed to your ſelves, deceive not your ſelves: I fear all of you are blind leaders of the blind, which if you are, you know your portion, Mat. 15.14. if you repent not; but I deſire your converſion and ſalvation with my whole heart: And therefore conſider, I beſeech you, who keep the firſt day of the weeke for a Sabbath, or a day of publick worship, out of an opinion that Chriſt hath ſo ordained it, did God ever ſay that Jeſus Chriſt should abolish the ſeventh daies Sabbath, or that it should become a working day? Can it be proved that the Law of the Sabbath which commanded an abſtinence from worldly work preciſely on the ſeventh day to the death of <hi>Chriſt,</hi> that <hi>God</hi> by the ſame <hi>Law,</hi> ever ſince the death of <hi>Chriſt</hi> hath bound the <hi>Church</hi> of <hi>Chriſt</hi> to abſtain from doing any work on the firſt day of the week, the day called Sunday, or Lords-day, or Sabbath-day? Now if it cannot bee shewn that God hath thus done, nor yet bee proved that God did ever bleſs and ſanctifie the firſt day of the weeke to bee kept or ſet a<g ref="char:EOLhyphen"/>part to be the day or time of their publick worship, before, or above any one day of the week, nor yet proved that God did ever command men to abſtain from doing worldly or common worke on it. If none of this can be proved, then what warrant is there to be produced that wee keep or ſet apart the firſt day of the week for a Sabbath in the place of the Sabbath? yea, or what war<g ref="char:EOLhyphen"/>rant is there for men to work, turmoyle, bake, roaſt, and boyle on the <hi>Lords ſeventh daies Sabbath,</hi> to the end they may have the day following in honour and high eſteem above any other day, when there is no warrant nor example to be found in the book of God neither for the one nor for the other. I know many doe think that the <hi>Apostles and Diſciples of Chriſt</hi> did conſtantly keep or ſet apart the firſt day of the week for a day of Gods worship, but whereby doe they prove it. Surely there is no word of God in any of the <hi>Evangeliſts or Apoſtles writings</hi> to do it: No nor to prove that ever two of the Apoſtles or Diſciples did aſſemble three firſt daies together ſucceſſively to worship on them; whatſoever men think to the contrary: yea, ſo poor a ground, or un<g ref="char:EOLhyphen"/>ſufficient warrant there is for men to ſet apart the firſt day of the week to wor<g ref="char:EOLhyphen"/>ship God on it in place of the ſeventh day Sabbath, that were it not more for cuſtome then for any warrant in the word of God, I ſuppoſe ſome ordinary Chriſtians would be ashamed to doe it; and yet on the other hand I know this, that there are many who have the firſt day of the week in ſo high eſteem, that they account the keeping of it a part of their divine worship; but doth <hi>God,</hi> or <hi>Ieſus Chriſt,</hi> or any of his <hi>Apoſtles</hi> command that worship? or doth ei<g ref="char:EOLhyphen"/>ther
+<pb n="13" facs="tcp:110785:10" rendition="simple:additions"/>of them command men to ſet apart the firſt day of the weeke to be a day for worship: If yea: where do we read of it? and what law of Chriſt or word of God doe men tranſgreſſe who doe worldly or common work on it, and doe refuſe to ſet it apart for a day of worship, I would willingly know? Can it be truly thought, that if the firſt day of the week ought to have been kept by a divine inſtitution in place of the Sabbath, but <hi>Paul</hi> would have known it? and had he known it, would he, think you, have kept the Sabbath with and among the Gentiles, and not have kept the firſt day of the week, nor acquaint them that the day of worship was changed from the ſeventh day to the firſt day by Chriſt, having opportunitie and fit occaſion given him, when he preached un<g ref="char:EOLhyphen"/>to them on the <hi>Sabbath-daies,</hi> Acts 13.14.15.42.44. &amp; 16.13? Can it bee thought that after <hi>Paul</hi> had preached to them on one Sabbath-day, and they deſired him to preach the ſame things to them the <hi>Sabbath following,</hi> Acts 13.42. he would have fulfilled their requeſt, and not rather have ſaid unto them, the <hi>Sabbath day</hi> is abolished, and the firſt day of the weeke is ordained and commanded by <hi>Chriſt</hi> to be kept in its ſtead, and therefore come to morrow, and I will preach to you the ſame things which I have preached to you now, the Sabbath being changed: Or elſe would not he, think you, have ſaid unto them; <hi>to morrow is our Sabbath day, Lords day, or day of worship;</hi> wee are to keep the firſt day of the week, as <hi>Chriſt</hi> our Law-giver hath commanded, and not the ſeventh, had ſuch a thing been done by <hi>Chriſt,</hi> but nothing of this, or of any thing like it, was replied to them by <hi>Paul</hi> (that we read of) but hee ful<g ref="char:EOLhyphen"/>filled their deſire, and preached unto them the next <hi>Sabbath day,</hi> yea almoſt the whole <hi>City</hi> came together to hear the word of God, <hi>ver.</hi> 42.44. In a word, we do not read that <hi>Paul,</hi> or any one of the Apoſtles did keep or ſet apart any three firſt daies of the week ſucceſſively with any one congregation while they were reſident with them, for performance of <hi>publick worship;</hi> neither doe wee read that they did ordain or command any congregation to keep the <hi>firſt day</hi> of the week for a <hi>day of worship</hi> after their deceaſe; yet I know men doe oftimes produce 1 <hi>Cor.</hi> 16.1.2. to prove ſuch a thing to bee done by <hi>Paul,</hi> but there is not one word in thoſe Texts to prove that the Apoſtles had any ſuch meaning. It is well known that <hi>Paul</hi> did conſtantly keep the <hi>Sabbath day,</hi> and did uſual<g ref="char:EOLhyphen"/>ly preach unto the Gentiles on it as well as unto the Jews, <hi>Act.</hi> 13, 14.42.44. &amp; 16.13. &amp; 17.2. Even ſo it was his care that it should be kept by all <hi>Chriſtian congregations after his deceaſe,</hi> as it doth appear in chap. 3. 17. &amp; 4. 9. to the <hi>Phi<g ref="char:EOLhyphen"/>lipians,</hi> and to the <hi>Corinihians,</hi> 1 <hi>Cor.</hi> 11.1. as alſo by that of his charge to <hi>Ti<g ref="char:EOLhyphen"/>mothy,</hi> 2 Tim. 2.2. and therefore little reaſon is there for any to ſay the <hi>Sabbath</hi> is abolished, and a new <hi>Sabbath</hi> is placed in its ſtead, whereof there is not any mention made in any part of the word of God. And laſtly, I ſay, let no man think that it doth offend me, that men profeſſing <hi>Chriſt</hi> do <hi>worship God on the first day of the week,</hi> barely conſidering it the firſt day of the week, for that I do
+<pb n="14" facs="tcp:110785:10" rendition="simple:additions"/>not, but should rather like it well if God were <hi>worshipped every day, in publiſh-aſſembly</hi> (if it might bee with convenience) as it was in the Apoſtles time, Acts 2.46. &amp; 5.42. Luke 24.53. but the thing I diſlike is, that men doe con<g ref="char:EOLhyphen"/>trary to the Law of God in point of the <hi>Sabbath,</hi> Exod. 20. in that they ſet apart the <hi>firſt day of the week</hi> in place of the <hi>ſeventh,</hi> and therein doe work, when <hi>God commandeth them to reſt.</hi> Surely for men thus to doe, I deeme it much diſ<g ref="char:EOLhyphen"/>pleaſing to God, and therefore ought to be shunned by all thoſe who deſire to <hi>worship God acceptably;</hi> but if there be ſome who out of a conceived opinion do ſet apart the <hi>firſt day of the week</hi> in devotion to God, and that withall they do <hi>holily and religiouſly keep the ſeventh dayes Sabbath</hi> in obedience to the <hi>Law of God</hi> (as ſome <hi>Christians</hi> did in ſome ſpace of time after the death of the <hi>Apoſtles</hi> to the <hi>year</hi> 404. as the <hi>Hiſtory</hi> of the <hi>Church</hi> reporteth, <hi>Socrat. lib.</hi> 6. <hi>chap.</hi> 8. I like it well, and do beleeve it would be wel-pleaſing to God, it being done by thoſe who worship God according to his will (without any ſuperſtitious end) whoſe <hi>honour</hi> in all things and above all things is to bee preferred, and therefore let us ſeek to glorifie <hi>God</hi> in our ſoules and in our bodies, if we expect to have acceptance with him. To be whom all honour, praiſe, and thanksgiving aſcribed by all men, now, and for evermore. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
